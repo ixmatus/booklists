@@ -1,0 +1,49 @@
+cabal-version:       >=1.10
+name:                computeIntersection
+version:             0.1.0.0
+license:             BSD3
+author:              Parnell Springmeyer
+maintainer:          parnell@digitalmentat.com
+build-type:          Simple
+
+executable computeIntersection
+  main-is:             Main.hs
+  hs-source-dirs:      src
+  exposed-modules:     Prelude
+  other-modules:       Prelude
+  default-language:    Haskell2010
+  build-depends:       base-noprelude
+                     , containers
+                     , dhall
+                     , optparse-generic
+                     , relude
+
+  default-extensions:  BangPatterns
+                     , BlockArguments
+                     , DataKinds
+                     , DefaultSignatures
+                     , DeriveAnyClass
+                     , DeriveFoldable
+                     , DeriveFunctor
+                     , DeriveGeneric
+                     , DeriveLift
+                     , DeriveTraversable
+                     , DerivingStrategies
+                     , FlexibleContexts
+                     , FlexibleInstances
+                     , GeneralizedNewtypeDeriving
+                     , InstanceSigs
+                     , LambdaCase
+                     , MultiParamTypeClasses
+                     , MultiWayIf
+                     , NamedFieldPuns
+                     , OverloadedStrings
+                     , PatternSynonyms
+                     , RankNTypes
+                     , RecordWildCards
+                     , ScopedTypeVariables
+                     , StandaloneDeriving
+                     , TupleSections
+                     , TypeApplications
+                     , TypeOperators
+                     , ViewPatterns
