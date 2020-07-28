@@ -205,5 +205,81 @@ in    [ { title = "The Pilgrim's Progress"
         , author = "F. Scott Fitzgerald"
         , href = "https://www.librarything.com/work/2964"
         }
+      , { title = "Lolly Willowes, or The Loving Huntsman"
+        , author = "Sylvia Townsend Warner"
+        , href = "https://www.librarything.com/work/30288"
+        }
+      , { title = "The Sun Also Rises"
+        , author = "Ernest Hemingway"
+        , href = "https://www.librarything.com/work/23107"
+        }
+      , { title = "The Maltese Falcon"
+        , author = "Dashiell Hammett"
+        , href = "https://www.librarything.com/work/38504"
+        }
+      , { title = "As I Lay Dying"
+        , author = "William Faulkner"
+        , href = "https://www.librarything.com/work/3360"
+        }
+      , { title = "Brave New World"
+        , author = "Aldous Huxley"
+        , href = "https://www.librarything.com/work/1977"
+        }
+      , { title = "Cold Comfort Farm"
+        , author = "Stella Gibbons"
+        , href = "https://www.librarything.com/work/7861018"
+        }
+      , { title = "1919"
+        , author = "John Dos Passos"
+        , href = "https://www.librarything.com/work/10137880"
+        }
+      , { title = "Tropic of Cancer"
+        , author = "Henry Miller"
+        , href = "https://www.librarything.com/work/8518"
+        }
+      , { title = "Scoop"
+        , author = "Evelyn Waugh"
+        , href = "https://www.librarything.com/work/38613"
+        }
+      , { title = "Murphy"
+        , author = "Samuel Beckett"
+        , href = "https://www.librarything.com/work/2119"
+        }
+      , { title = "The Big Sleep"
+        , author = "Raymond Chandler"
+        , href = "https://www.librarything.com/work/10137"
+        }
+      , { title = "Party Going"
+        , author = "Henry Green"
+        , href = "https://www.librarything.com/work/134729"
+        }
+      , { title = "At Swim-Two-Birds"
+        , author = "Flann O'Brien"
+        , href = "https://www.librarything.com/work/58506"
+        }
+      , { title = "The Grapes of Wrath"
+        , author = "John Steinbeck"
+        , href = "https://www.librarything.com/work/8488"
+        }
+      , { title = "Joy in the Morning"
+        , author = "P. G. Wodehouse"
+        , href = "https://www.librarything.com/work/51290"
+        }
+      , { title = "All the King's Men"
+        , author = "Robert Penn Warren"
+        , href = "https://www.librarything.com/work/35392"
+        }
+      , { title = "Under the Volcano"
+        , author = "Malcolm Lowry"
+        , href = "https://www.librarything.com/work/8023"
+        }
+      , { title = "The Heat of the Day"
+        , author = "Elizabeth Bowen"
+        , href = "https://www.librarything.com/work/27177"
+        }
+      , { title = "1984"
+        , author = "George Orwell"
+        , href = "https://www.librarything.com/work/1472"
+        }
       ]
     : List types.Book
